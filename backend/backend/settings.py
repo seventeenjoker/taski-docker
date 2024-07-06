@@ -8,7 +8,7 @@ SECRET_KEY = 'django-insecure-j_89af+30&&4qm*8z9_(^zz8p4-ho8z_m6ylm0s$h!-p@on1_^
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['taskiii.ddnsking.com', '127.0.0.1', '158.160.88.85', 'localhost']
+ALLOWED_HOSTS = ['wiki-task.hopto.org', '127.0.0.1', '158.160.88.85', 'localhost']
 
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
